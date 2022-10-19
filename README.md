@@ -2,7 +2,7 @@
 - 👀 I’m interested in science, maching learning, coding, game...
 - 🌱 I’m currently learning reinforcement learning...
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me dracularking1@gmail.com
+- 📫 How to reach me xxx@gmail.com
 
 <!---
 sciencebelief/sciencebelief is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
